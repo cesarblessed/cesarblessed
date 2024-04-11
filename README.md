@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=cesarblessed&color=006bed)
 
+# ___Cesar Augusto___
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -52,6 +54,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-de-paula-ct/)](https://www.linkedin.com/in/cesar-de-paula-ct/)
+[![Linkedin](https://img.shields.io/badge/-cesarblessed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-de-paula-ct/)](https://www.linkedin.com/in/cesar-de-paula-ct/)
 [![Gmail Badge](https://img.shields.io/badge/-cesardepaula80@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cesardepaula80@gmail.com)](mailto:cesardepaula80@gmail.com)
 
