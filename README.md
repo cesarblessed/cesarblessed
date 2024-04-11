@@ -11,6 +11,7 @@
 ## Minhas Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
+<i class="devicon-adonisjs-original"></i>
 
 **Aplicações e dados**
 
