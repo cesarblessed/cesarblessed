@@ -1,11 +1,12 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=cesarblessed&color=006bed)
 
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Formado em {Técnico em informática} no {Instituto  Federal Fluminense - IFF}.
+- 🎓 Estudando {Sistemas de informação} no {Instituto  Federal Fluminense - IFF}.
+- 💼 Trabalhando como {Desenvolvedor fullstack} na {SmartInfo}.
+- 🌱 Aprendendo mais sobre {Tecnologias atuais, principal flutter}.
 
 ## Minhas Skills
 
@@ -51,6 +52,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-de-paula-ct/)](https://www.linkedin.com/in/cesar-de-paula-ct/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
