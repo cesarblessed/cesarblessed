@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Técnico em informática no Instituto  Federal Fluminense - IFF.
 - 🎓 Estudando Sistemas de informação no Instituto  Federal Fluminense - IFF.
-- 💼 Trabalhando como {Desenvolvedor fullstack} na {SmartInfo}.
+- 💼 Trabalhando como Desenvolvedor fullstack na SmartInfo.
 - 🌱 Aprendendo mais sobre Tecnologias atuais, principal flutter.
 
 ## Minhas Skills
