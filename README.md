@@ -11,6 +11,7 @@
 ## Minhas Skills
 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" /><img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original-wordmark.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
 
 **Aplicações e dados**
 
